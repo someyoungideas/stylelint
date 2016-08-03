@@ -4,6 +4,7 @@
 - Added: `--ignore-disables` and `ignoreDisables` option.
 - Added: `value-list-max-empty-lines` rule.
 - Fixed: `no-unknown-animations` and `unit-blacklist` now handle numbers without leading zeros.
+- Fixed: `media-feature-no-missing-punctuation` no longer delivers false positives for SCSS operators.
 
 # 7.1.0
 
